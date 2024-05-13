@@ -1,0 +1,20 @@
+				  == LIST OF FLIGHT ==
+Flight Information: F1111	HCM	HN	Fri Jan 02 00:00:00 ICT 2004	Fri Jan 02 01:00:00 ICT 2004
+CREW MANAGEMENT: 
+[PL0003	Tuan	Pilot, PL0005	Phuoc	Pilot]
+[FA0001	Ngan	Flight Attendant, FA0004	Ngoc	Flight Attendant]
+[GS0001	Tien	Ground Staff, GS0004	Thanh	Ground Staff]
+
+Reservation ID: RE915
+Status: 1
+Gate: 1
+Passenger Information: [12345	TRANG	02/01/2004]
+Selected Seat(s): [26]
+============================================
+Reservation ID: RE847
+Status: 1
+Gate: 1
+Passenger Information: [111111	TRI	05/02/2004]
+Selected Seat(s): [25]
+============================================
+==================================================================================================================================
